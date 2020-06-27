@@ -1,7 +1,9 @@
 # test
 MINH DEP TRAi
 git add ( ten file)
-git commit
+2 cách để commit
+1. git commit
 	viet message
-hoặc git commit -m "message"
+2. hoặc git commit -m "message"
+
 git push
