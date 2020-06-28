@@ -3,3 +3,5 @@
 *in nghiêng*
 **đậm**
 #### ***nghiêng và đậm***
+`inlinecode`
+```highitlight
