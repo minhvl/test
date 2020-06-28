@@ -18,3 +18,4 @@ echo ("highlight code");
 horizonal rules
 
 {@youtube:https://www.youtube.com/watch?v=9ZPdjzOl32s}
+[Nghe nhạc nào](https://www.youtube.com/watch?v=9ZPdjzOl32s)
