@@ -31,7 +31,7 @@ horizonal rules
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
->chú thích
+>### **chú thích**
 >
 >> *tên hàng ngăn cách bằng dấu ---, căn chỉnh lề bằng :*
 
