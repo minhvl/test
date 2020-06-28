@@ -31,6 +31,7 @@ horizonal rules
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
+* tên hàng ngăn cách bằng dấu ---, căn chỉnh lề bằng :*
 |Name|Age|DOB|
 |----:|:---|:---:|
 |Minh|23|21/11/1997|
