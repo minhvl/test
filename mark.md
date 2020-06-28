@@ -20,6 +20,9 @@ echo ("highlight code");
 ***
 horizonal rules
 
+### *link*
+[1]: https://www.google.com "Google"
+
 {@youtube:https://www.youtube.com/watch?v=9ZPdjzOl32s}
 
 
