@@ -30,3 +30,8 @@ horizonal rules
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
+
+|Name|Age|DOB|
+|----:|:---|:---:|
+|Minh|23|21/11/1997|
+|Phương Anh|21||
