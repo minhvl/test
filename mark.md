@@ -21,12 +21,13 @@ echo ("highlight code");
 horizonal rules
 
 ### *link*
-[1]: https://www.google.com "Google"
-
-{@youtube:https://www.youtube.com/watch?v=9ZPdjzOl32s}
-
-
+|Link|note|
+|-|-|
+|google.com|**link trực tiếp**|
+|[Google](google.com)| *link gián tiếp*|
+|{@youtube:https://www.youtube.com/watch?v=9ZPdjzOl32s}||
 [Nghe nhạc nào](https://www.youtube.com/watch?v=9ZPdjzOl32s)
+
 
 | Tables        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
