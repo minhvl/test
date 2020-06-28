@@ -34,6 +34,7 @@ horizonal rules
 >chú thích
 >
 >> *tên hàng ngăn cách bằng dấu ---, căn chỉnh lề bằng :*
+
 |Name|Age|DOB|
 |----:|:---|:---:|
 |Minh|23|21/11/1997|
