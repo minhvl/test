@@ -5,5 +5,8 @@
 #### ***nghiêng và đậm***
 `inlinecode`
 
-high light
+```php
+
+echo ("highlight code");
+
 ```
