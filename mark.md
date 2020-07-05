@@ -4,6 +4,7 @@
 
 **đậm**
 
+~~gach ngang~~
 #### ***nghiêng và đậm***
 `inlinecode`
 
@@ -45,6 +46,9 @@ horizonal rules
 |Minh|23|21/11/1997|
 |Phương Anh|21||
 
+
+
 *insert ảnh*
 
-{https://www.google.com/search?q=kamen+rider+zero+one&sxsrf=ALeKk00ldx44DiXxEHByKf89HILKP_LA6Q:1593923562311&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjl2-v9o7XqAhWSNaYKHZTeB3gQ_AUoAXoECBgQAw&biw=1920&bih=969#imgrc=moEh6cRODo9wqM}
+
+![Zero one](https://www.google.com/search?q=kamen+rider+zero+one&sxsrf=ALeKk00ldx44DiXxEHByKf89HILKP_LA6Q:1593923562311&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjl2-v9o7XqAhWSNaYKHZTeB3gQ_AUoAXoECBgQAw&biw=1920&bih=969#imgrc=moEh6cRODo9wqM)
