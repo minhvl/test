@@ -55,5 +55,6 @@ horizonal rules
 
 
 <img src="https://upload.wikimedia.org/wikipedia/vi/d/d6/KR_Zero-One.png"
-     alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px; size:10"/>
+    tile="zero one"
+     alt="Markdownicon"
+     style="float: left; margin-right: 10px; height:100px; width:100px;"/>
