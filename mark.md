@@ -52,3 +52,8 @@ horizonal rules
 
 
 ![Zero one](https://upload.wikimedia.org/wikipedia/vi/d/d6/KR_Zero-One.png)
+
+
+<img src="https://upload.wikimedia.org/wikipedia/vi/d/d6/KR_Zero-One.png"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px; size:10"/>
