@@ -45,16 +45,18 @@ horizonal rules
 |----:|:---|:---:|
 |Minh|23|21/11/1997|
 |Phương Anh|21||
+|Huy|20|18/11/2000
 
 
 
 *insert ảnh*
 
 
-![Zero one](https://upload.wikimedia.org/wikipedia/vi/d/d6/KR_Zero-One.png)
-
 
 <img src="https://upload.wikimedia.org/wikipedia/vi/d/d6/KR_Zero-One.png"
     tile="zero one"
      alt="Markdownicon"
-     style="float: left; margin-right: 10px; height:100px; width:100px;"/>
+     style="float: left; margin-right: 10px; height:200px; width:300px;"/>
+
+![Zero one](https://upload.wikimedia.org/wikipedia/vi/d/d6/KR_Zero-One.png)
+
